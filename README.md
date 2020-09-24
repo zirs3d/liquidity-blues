@@ -1,7 +1,7 @@
 # liquidity-blues
 ##### sauce hooked on <a target='_blank' href='https://github.com/zirs3d/liquidity-blues'>github</a>
 
-Available on <a target='_blank' href='#'>greasyfork.org</a>
+Available on <a target='_blank' href='https://greasyfork.org/en/scripts/411871-liquidity-vision-blues-dark-edition'>greasyfork.org</a>
 
 This is the Liquidity Blues (Dark) edition for <a target='_blank' href='https://liquidity.vision'>liquidity.vision</a> 
 * Nightly-Blues Dark Vision
