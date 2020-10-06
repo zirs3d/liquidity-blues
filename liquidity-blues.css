@@ -3,7 +3,7 @@
 @description        This is the Liquidity Blues (Dark) edition for Liquidity.Vision
 @author             zirs3d
 @license            CC0-1.0
-@version            0.0.2
+@version            0.0.3
 @namespace https://greasyfork.org/users/517035
 ==/UserStyle== */
 
@@ -94,7 +94,6 @@
         h1.u-textColorDark,
         p,
         td,
-        span,
         div,
         figcaption,
         li,
